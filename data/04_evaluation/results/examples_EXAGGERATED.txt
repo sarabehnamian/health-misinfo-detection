@@ -1,0 +1,364 @@
+================================================================================
+VERIFICATION EXAMPLES: EXAGGERATED (1851 total)
+================================================================================
+
+--- Example 1 ---
+Platform:       reddit
+Product:        mesenchymal stem cells (MSCs)
+Claimed Effect: completely curing Alzheimer's Disease
+Target:         Alzheimer's Disease
+Strength:       definitive
+Category:       disease_cure
+Verbatim:       "1.5M Stem Cells Completely Curing Alzheimer's Disease"
+Confidence:     0.95
+Risk Tier:      HIGH
+Reasoning:      The evidence shows MSCs have potential therapeutic effects in animal models and may help manage cognitive deficits, but none of the retrieved articles support a definitive 'cure' claim. The systematic reviews indicate MSCs show promise as a regenerative medicine tool through immunomodulatory and neu
+Key Evidence:   Article [2] meta-analysis examines MSC effects on 'cognitive deficits in animal models'—not human cure. Article [3] describes MSCs as 'promising treatment' not curative. No human clinical trials demonstrating complete remission are cited.
+Recommendation: Healthcare providers should inform patients that MSC therapy for Alzheimer's remains experimental. While research is ongoing, no approved MSC treatments cure AD. Patients should not delay or abandon p
+PubMed hits:    4
+FDA events:     0
+NIH ref:        No
+Source URL:     https://reddit.com/r/AlternativeHealth/comments/1lxwsjt/15m_stem_cells_completely_curing_alzheimers/
+
+--- Example 2 ---
+Platform:       reddit
+Product:        pseudoephedrine (Sudafed)
+Claimed Effect: solves 80% of personal problems
+Target:         general health
+Strength:       definitive
+Category:       drug_misuse
+Verbatim:       "it's like a miracle pill which solves 80% of my problems"
+Confidence:     0.95
+Risk Tier:      MODERATE
+Reasoning:      Pseudoephedrine is a nasal decongestant with FDA approval for relieving congestion symptoms only. The claim of solving '80% of personal problems' vastly overstates its therapeutic scope. No scientific evidence supports such broad health benefits. The anecdotal nature ('my problems') conflates sympto
+Key Evidence:   No relevant systematic reviews or RCTs found for general health claims; FDA adverse events include serious reactions (hypertension, anxiety, lung infiltration) inconsistent with a safe 'miracle' solution.
+Recommendation: Healthcare professionals should clarify that pseudoephedrine treats nasal congestion symptoms only, not general health problems. Patients should be counseled on proper use, dosing limits, and contrain
+PubMed hits:    0
+FDA events:     3
+NIH ref:        No
+Source URL:     https://reddit.com/r/Nootropics/comments/1lhr5f3/pseudoephedrine_radically_changed_my_productivity/
+
+--- Example 3 ---
+Platform:       reddit
+Product:        NAD+ (nicotinamide adenine dinucleotide)
+Claimed Effect: can reverse Alzheimer's disease and achieve full neurological recovery
+Target:         Alzheimer's disease
+Strength:       definitive
+Category:       disease_cure
+Verbatim:       "Alzheimer's disease can be reversed in animal models to achieve full neurological recovery, not just prevented or slowed"
+Confidence:     0.95
+Risk Tier:      MODERATE
+Reasoning:      Evidence shows NAD+ has protective and potential therapeutic effects in preclinical studies, but the claim of 'reversing' AD with 'full neurological recovery' is unsupported. Available evidence describes NAD+ as a 'promising therapeutic strategy' for treatment, not reversal or cure. A Phase II clini
+Key Evidence:   [5] states NAD+ is 'a promising therapeutic strategy for the treatment of AD' and 'There is no cure for AD.' [3] shows only improvement in cognitive functions in humans, not reversal. The evidence supports slowing/prevention, not reversal to full recovery.
+Recommendation: Healthcare providers should inform patients that NAD+ precursors show promise in early research but are not established treatments for AD. Current evidence supports potential symptom improvement, not 
+PubMed hits:    5
+FDA events:     2
+NIH ref:        No
+Source URL:     https://reddit.com/r/Biohackers/comments/1pv4ses/stunning_results_new_study_shows_alzheimers/
+
+--- Example 4 ---
+Platform:       reddit
+Product:        Cialis 5mg
+Claimed Effect: produces zero side effects
+Target:         general health
+Strength:       definitive
+Category:       drug_misuse
+Verbatim:       "I have zero side effects – no headache, no nasal congestion, nothing"
+Confidence:     0.95
+Risk Tier:      MODERATE
+Reasoning:      The claim of 'zero side effects' is a definitive statement contradicted by FDA adverse event data showing multiple reported reactions including headache, nasal congestion, fatigue, depression, attention disturbance, and serious events (myocardial infarction, lipase elevation). While individual varia
+Key Evidence:   FDA Adverse Events database documents multiple adverse reactions including fatigue, depression, disturbance in attention, and serious cardiovascular events (myocardial infarction) associated with the product, directly contradicting the 'zero side effects' claim.
+Recommendation: Healthcare providers should counsel patients that while Cialis 5mg is generally well-tolerated in many individuals, side effects occur in a significant proportion of users. Individual tolerance varies
+PubMed hits:    0
+FDA events:     3
+NIH ref:        No
+Source URL:     https://reddit.com/r/Biohackers/comments/1k4hyx7/cialis_5mg_daily_a_lifechanging_experience/
+
+--- Example 5 ---
+Platform:       youtube
+Product:        turmeric
+Claimed Effect: starves cancer cells
+Target:         cancer
+Strength:       definitive
+Category:       disease_cure
+Verbatim:       "TURMERIC STARVES CANCER CELLS NEWER STUDY FINDS"
+Confidence:     0.95
+Risk Tier:      CRITICAL
+Reasoning:      While curcumin has demonstrated anti-cancer properties in laboratory and some preclinical studies (referenced in article [2]), the retrieved evidence does not support the definitive claim that turmeric 'starves cancer cells.' The evidence shows turmeric's benefits are limited to managing treatment s
+Key Evidence:   Articles [1] and [4] document turmeric's use in managing complications of cancer therapy (radiodermatitis, oral mucositis), not treating cancer. No retrieved evidence demonstrates turmeric 'starves' cancer cells in human clinical trials.
+Recommendation: Healthcare providers should inform patients that while curcumin shows laboratory promise, no clinical evidence supports turmeric as a cancer treatment. It may help manage chemotherapy/radiation side e
+PubMed hits:    5
+FDA events:     3
+NIH ref:        Yes
+Source URL:     https://www.youtube.com/watch?v=A_fAvAUqTg0
+
+--- Example 6 ---
+Platform:       youtube
+Product:        turmeric
+Claimed Effect: starves cancer cells
+Target:         cancer
+Strength:       definitive
+Category:       disease_cure
+Verbatim:       "TURMERIC STARVES CANCER CELLS NEWER STUDY FINDS"
+Confidence:     0.95
+Risk Tier:      CRITICAL
+Reasoning:      While curcumin has demonstrated anti-cancer properties in laboratory and some preclinical studies (referenced in article [2]), the claim that turmeric 'starves cancer cells' is a definitive overstatement. Retrieved evidence shows turmeric is studied for managing cancer treatment side effects (radiod
+Key Evidence:   Articles [1] and [4] demonstrate turmeric's role is supportive (managing treatment side effects), not curative. Article [2] acknowledges anti-cancer activity exists but in preliminary research contexts. No clinical trial evidence confirms turmeric treats cancer directly in humans.
+Recommendation: Cancer patients should not rely on turmeric as a primary cancer treatment. While curcumin shows promise in laboratory research, clinical evidence in humans remains limited. Turmeric may be considered 
+PubMed hits:    5
+FDA events:     3
+NIH ref:        Yes
+Source URL:     https://www.youtube.com/watch?v=A_fAvAUqTg0
+
+--- Example 7 ---
+Platform:       youtube
+Product:        turmeric
+Claimed Effect: starves cancer cells
+Target:         cancer
+Strength:       definitive
+Category:       disease_cure
+Verbatim:       "TURMERIC STARVES CANCER CELLS NEWER STUDY FINDS"
+Confidence:     0.95
+Risk Tier:      CRITICAL
+Reasoning:      The claim uses definitive language ('starves cancer cells') that overstates available evidence. Retrieved studies show turmeric/curcumin has in vitro anti-cancer properties and may help manage cancer treatment side effects (radiodermatitis, oral mucositis), but no evidence demonstrates it 'starves' 
+Key Evidence:   Retrieved studies focus on turmeric's supportive role in managing radiotherapy/chemotherapy complications (radiodermatitis, oral mucositis), NOT direct anti-cancer effects in humans. Article [2] mentions 'anti-cancer' properties only as a general descriptor of curcumin's laboratory activities, not c
+Recommendation: Healthcare providers should counsel cancer patients that turmeric may help manage treatment side effects but has no proven role in treating cancer itself. Patients should not use this claim as justifi
+PubMed hits:    5
+FDA events:     3
+NIH ref:        Yes
+Source URL:     https://www.youtube.com/watch?v=A_fAvAUqTg0
+
+--- Example 8 ---
+Platform:       youtube
+Product:        turmeric
+Claimed Effect: cures cancer
+Target:         cancer
+Strength:       suggestive
+Category:       disease_cure
+Verbatim:       "Can Turmeric Cure Cancer?"
+Confidence:     0.95
+Risk Tier:      CRITICAL
+Reasoning:      The evidence shows turmeric has potential supportive roles in cancer care (managing radiodermatitis, oral mucositis) but does NOT support it as a cure. The retrieved articles focus on symptom management during conventional therapy, not cancer treatment or cure. The claim 'cures cancer' dramatically 
+Key Evidence:   Articles [1] and [4] demonstrate turmeric's role in managing side effects of cancer therapy (radiodermatitis, oral mucositis), NOT treating or curing cancer itself. No evidence supports curative effects for cancer.
+Recommendation: Healthcare providers should clarify that while curcumin shows promise for managing cancer treatment side effects, there is no scientific evidence it cures cancer. Patients should never substitute turm
+PubMed hits:    5
+FDA events:     3
+NIH ref:        Yes
+Source URL:     https://www.youtube.com/watch?v=MiJOMw4pES4
+
+--- Example 9 ---
+Platform:       youtube
+Product:        turmeric
+Claimed Effect: cures cancer
+Target:         cancer
+Strength:       definitive
+Category:       disease_cure
+Verbatim:       "Can Turmeric Cure Cancer?"
+Confidence:     0.95
+Risk Tier:      CRITICAL
+Reasoning:      The evidence shows turmeric/curcumin has potential supportive benefits for cancer patients (managing radiodermatitis, oral mucositis) but no evidence demonstrates it 'cures' cancer. The retrieved studies focus on managing treatment side effects, not treating cancer itself. The claim uses definitive 
+Key Evidence:   All retrieved studies examine turmeric's role in managing complications of cancer treatment (radiodermatitis, oral mucositis, OSMF), not as a curative therapy. No studies demonstrate turmeric alone treats or cures any cancer type.
+Recommendation: Healthcare professionals should counsel patients that turmeric may help manage side effects of cancer treatment but is not a cancer cure. Patients should continue evidence-based oncologic treatment. T
+PubMed hits:    5
+FDA events:     3
+NIH ref:        Yes
+Source URL:     https://www.youtube.com/watch?v=MiJOMw4pES4
+
+--- Example 10 ---
+Platform:       youtube
+Product:        turmeric
+Claimed Effect: cures cancer/shrinks tumors
+Target:         cancer
+Strength:       anecdotal
+Category:       disease_cure
+Verbatim:       "He peeled and sliced several turmeric and few ginger. He boiled it for 30 minutes and used that water for his coffee. He drank it 3x a day. He said he noticed the growth getting smaller till it disapp"
+Confidence:     0.95
+Risk Tier:      CRITICAL
+Reasoning:      The claim asserts turmeric 'cures cancer' and 'shrinks tumors' based on anecdotal evidence. While retrieved studies acknowledge curcumin has anti-cancer properties in research contexts, the evidence shows turmeric is studied for managing treatment side effects (radiodermatitis, oral mucositis) in ca
+Key Evidence:   Articles [1] and [4] show turmeric's role is managing cancer treatment complications (side effects), not treating cancer itself. No retrieved evidence supports turmeric as a curative therapy for cancer.
+Recommendation: Health professionals should: (1) Clearly distinguish between in vitro research and clinical efficacy; (2) Advise cancer patients that turmeric may complement conventional treatment for side effect man
+PubMed hits:    5
+FDA events:     3
+NIH ref:        Yes
+Source URL:     https://www.youtube.com/watch?v=MiJOMw4pES4
+
+--- Example 11 ---
+Platform:       youtube
+Product:        turmeric
+Claimed Effect: cures cancer
+Target:         cancer
+Strength:       definitive
+Category:       disease_cure
+Verbatim:       "Can Turmeric Cure Cancer?"
+Confidence:     0.95
+Risk Tier:      CRITICAL
+Reasoning:      While evidence supports turmeric's anti-cancer properties and use in managing cancer treatment side effects (radiodermatitis, oral mucositis), no evidence demonstrates it 'cures' cancer. The retrieved studies examine turmeric as a supportive therapy for treatment-related complications, not as a cura
+Key Evidence:   Studies [1] and [4] show turmeric helps manage radiation/chemotherapy side effects (radiodermatitis, oral mucositis) in cancer patients—supporting care, not cure. No retrieved evidence documents turmeric curing cancer or replacing standard oncologic treatment.
+Recommendation: Healthcare providers should clarify that while curcumin shows promise as a complementary therapy for managing cancer treatment side effects, it is not a cancer cure and should never replace convention
+PubMed hits:    5
+FDA events:     3
+NIH ref:        Yes
+Source URL:     https://www.youtube.com/watch?v=MiJOMw4pES4
+
+--- Example 12 ---
+Platform:       youtube
+Product:        natural supplements/herbs
+Claimed Effect: cures any health condition
+Target:         general health
+Strength:       suggestive
+Category:       disease_cure
+Verbatim:       "I beleive mother nature has a answer to anything that our bodies incur."
+Confidence:     0.95
+Risk Tier:      MODERATE
+Reasoning:      The claim asserts that natural supplements/herbs can 'cure any health condition,' which is an absolute statement unsupported by evidence. While some herbs have demonstrated efficacy for specific conditions in clinical research, no natural supplement is proven to cure 'anything.' The absence of evide
+Key Evidence:   NO EVIDENCE FOUND in PubMed, FDA, or NIH databases for the claim that natural supplements cure any health condition. Absence of systematic reviews or RCTs supporting universal curative effects.
+Recommendation: Health professionals should counsel patients that while some natural compounds have therapeutic value for specific conditions, 'natural' does not mean universally safe or effective. Any health conditi
+PubMed hits:    0
+FDA events:     0
+NIH ref:        No
+Source URL:     https://www.youtube.com/watch?v=MiJOMw4pES4
+
+--- Example 13 ---
+Platform:       youtube
+Product:        turmeric
+Claimed Effect: cures cancer
+Target:         cancer
+Strength:       definitive
+Category:       disease_cure
+Verbatim:       "Can Turmeric Cure Cancer?"
+Confidence:     0.95
+Risk Tier:      CRITICAL
+Reasoning:      The retrieved evidence shows turmeric/curcumin has been studied for supportive care in cancer patients (managing radiodermatitis, oral mucositis) and demonstrates anti-cancer properties in research. However, no evidence supports that turmeric 'cures' cancer. The claim uses definitive language ('cure
+Key Evidence:   Articles [1] and [4] examine turmeric's role in managing side effects of cancer treatment (radiodermatitis, oral mucositis), not treating or curing cancer itself. No curative evidence is presented in any retrieved study.
+Recommendation: Healthcare providers should clarify that turmeric may help manage certain side effects of cancer treatment but has no evidence as a cancer cure. Patients should not replace conventional oncology treat
+PubMed hits:    5
+FDA events:     3
+NIH ref:        Yes
+Source URL:     https://www.youtube.com/watch?v=MiJOMw4pES4
+
+--- Example 14 ---
+Platform:       youtube
+Product:        turmeric
+Claimed Effect: cure cancer
+Target:         cancer
+Strength:       definitive
+Category:       disease_cure
+Verbatim:       "Can Turmeric Cure Cancer?"
+Confidence:     0.95
+Risk Tier:      CRITICAL
+Reasoning:      The retrieved evidence shows turmeric/curcumin has potential supportive roles in cancer care (managing radiodermatitis, oral mucositis) but does NOT demonstrate curative properties. The evidence describes turmeric as having 'anti-cancer activities' in research contexts, but no studies show it can cu
+Key Evidence:   Articles [1] and [4] show turmeric's role in managing side effects of cancer therapy (radiodermatitis, oral mucositis), not treating cancer itself. Article [2] mentions 'anti-cancer' research activities but provides no evidence of curative capability.
+Recommendation: Cancer patients should not use turmeric as a cancer treatment substitute. Turmeric may be considered as supportive care for managing specific treatment side effects only under oncologist supervision. 
+PubMed hits:    5
+FDA events:     3
+NIH ref:        Yes
+Source URL:     https://www.youtube.com/watch?v=MiJOMw4pES4
+
+--- Example 15 ---
+Platform:       youtube
+Product:        herbal medications
+Claimed Effect: stop/cure cancer
+Target:         cancer
+Strength:       anecdotal
+Category:       disease_cure
+Verbatim:       "the herbal medications you send to me to put a stop to the one I have already"
+Confidence:     0.95
+Risk Tier:      CRITICAL
+Reasoning:      The claim asserts herbal medications can 'stop/cure' cancer, which is not supported by evidence. Retrieved studies show herbal medicines may help manage cancer-related symptoms (depression, anxiety, cachexia, sleep disturbance) and potentially serve as adjuvant therapy alongside conventional treatme
+Key Evidence:   Article [4] demonstrates herbal medicine's role as 'adjuvant therapy' to enhance standard cancer treatment, not as standalone cure. No studies support herbal monotherapy for cancer remission or cure.
+Recommendation: Cancer patients should consult oncologists before using herbal products. Herbal medicines may complement conventional treatment for symptom management but cannot replace chemotherapy, surgery, radiati
+PubMed hits:    5
+FDA events:     3
+NIH ref:        No
+Source URL:     https://www.youtube.com/watch?v=MiJOMw4pES4
+
+--- Example 16 ---
+Platform:       youtube
+Product:        turmeric
+Claimed Effect: cures cancer
+Target:         cancer
+Strength:       suggestive
+Category:       disease_cure
+Verbatim:       "Can Turmeric Cure Cancer?"
+Confidence:     0.95
+Risk Tier:      CRITICAL
+Reasoning:      The evidence shows turmeric has potential supportive roles in cancer care (managing radiodermatitis and oral mucositis in patients undergoing treatment), but does NOT support claims of curing cancer. The retrieved studies examine symptom management during standard cancer therapy, not cancer treatmen
+Key Evidence:   Articles [1] and [4] demonstrate turmeric's use in managing side effects of cancer treatment (radiodermatitis, oral mucositis), NOT treating or curing cancer itself. No evidence presents turmeric as a primary cancer therapy.
+Recommendation: Health professionals should clarify that while turmeric may help manage certain side effects of cancer treatment, there is no evidence it cures cancer. Patients should use proven conventional treatmen
+PubMed hits:    5
+FDA events:     3
+NIH ref:        Yes
+Source URL:     https://www.youtube.com/watch?v=MiJOMw4pES4
+
+--- Example 17 ---
+Platform:       youtube
+Product:        turmeric
+Claimed Effect: cures cancer
+Target:         cancer
+Strength:       definitive
+Category:       disease_cure
+Verbatim:       "Can Turmeric Cure Cancer?"
+Confidence:     0.95
+Risk Tier:      CRITICAL
+Reasoning:      The evidence shows turmeric/curcumin has anti-cancer properties and may help manage cancer treatment side effects (radiodermatitis, oral mucositis), but no studies demonstrate it 'cures' cancer. The retrieved evidence focuses on supportive care during conventional cancer treatment, not cancer cure. 
+Key Evidence:   Articles [1] and [4] show turmeric helps manage side effects of cancer therapy (radiodermatitis, oral mucositis), not cure cancer itself. The systematic reviews evaluate curcumin as adjunctive to conventional treatment, not as a standalone cure.
+Recommendation: Health professionals should clarify that turmeric may be a supportive complement to evidence-based cancer treatment but is not a cure. Cancer patients should never replace conventional oncology care (
+PubMed hits:    5
+FDA events:     3
+NIH ref:        Yes
+Source URL:     https://www.youtube.com/watch?v=MiJOMw4pES4
+
+--- Example 18 ---
+Platform:       youtube
+Product:        turmeric
+Claimed Effect: cures cancer
+Target:         cancer
+Strength:       definitive
+Category:       disease_cure
+Verbatim:       "Can Turmeric Cure Cancer?"
+Confidence:     0.95
+Risk Tier:      CRITICAL
+Reasoning:      The retrieved evidence shows turmeric has anti-cancer properties in research contexts and may help manage side effects of cancer treatment (radiodermatitis, oral mucositis). However, no evidence demonstrates turmeric 'cures' cancer. The claim uses definitive language ('cures') unsupported by clinica
+Key Evidence:   Articles [1] and [4] document turmeric's role in managing cancer treatment complications, not treating cancer itself. Article [2] mentions 'anti-cancer activities' but in research context only, not clinical cure.
+Recommendation: Healthcare providers should advise cancer patients that while turmeric may help manage treatment side effects, it is not a cancer cure and cannot replace conventional oncology treatments. Patients sho
+PubMed hits:    5
+FDA events:     3
+NIH ref:        Yes
+Source URL:     https://www.youtube.com/watch?v=MiJOMw4pES4
+
+--- Example 19 ---
+Platform:       youtube
+Product:        turmeric
+Claimed Effect: cures cancer
+Target:         cancer
+Strength:       definitive
+Category:       disease_cure
+Verbatim:       "Can Turmeric Cure Cancer?"
+Confidence:     0.95
+Risk Tier:      CRITICAL
+Reasoning:      While curcumin has demonstrated anti-cancer properties in research and may help manage cancer treatment side effects (radiodermatitis, oral mucositis), the evidence does not support that turmeric 'cures' cancer. The retrieved studies examine turmeric's supportive role in managing treatment complicat
+Key Evidence:   Articles [1] and [4] show turmeric's benefit in managing cancer treatment side effects (radiodermatitis, oral mucositis), not treating cancer itself. Article [2] acknowledges 'anti-cancer' properties in research but provides no evidence of curative efficacy in humans.
+Recommendation: Health professionals should clarify that while turmeric may have antioxidant and anti-inflammatory properties studied in research, it is not a cancer cure. Cancer patients should use turmeric only as 
+PubMed hits:    5
+FDA events:     3
+NIH ref:        Yes
+Source URL:     https://www.youtube.com/watch?v=MiJOMw4pES4
+
+--- Example 20 ---
+Platform:       youtube
+Product:        turmeric
+Claimed Effect: cures cancer
+Target:         cancer
+Strength:       definitive
+Category:       disease_cure
+Verbatim:       "Can Turmeric Cure Cancer?"
+Confidence:     0.95
+Risk Tier:      CRITICAL
+Reasoning:      The evidence shows turmeric/curcumin has potential supportive benefits for cancer patients (managing radiodermatitis, oral mucositis) but NO evidence supports the claim it 'cures' cancer. The retrieved studies examine turmeric's role in managing treatment side effects, not treating the disease itsel
+Key Evidence:   Articles [1] and [4] show turmeric may help manage radiation and chemotherapy side effects, not treat cancer itself. No curative mechanism or clinical trials showing cancer remission are presented.
+Recommendation: Healthcare professionals should clarify that while turmeric may have supportive roles in cancer care (managing side effects), it is not a cancer cure. Cancer patients should consult oncologists before
+PubMed hits:    5
+FDA events:     3
+NIH ref:        Yes
+Source URL:     https://www.youtube.com/watch?v=MiJOMw4pES4
+

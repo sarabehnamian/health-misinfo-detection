@@ -1,0 +1,364 @@
+================================================================================
+VERIFICATION EXAMPLES: DANGEROUS (713 total)
+================================================================================
+
+--- Example 1 ---
+Platform:       reddit
+Product:        unnamed machine/device
+Claimed Effect: treats or cures flu, cancer, and AIDS
+Target:         flu, cancer, AIDS
+Strength:       definitive
+Category:       disease_cure
+Verbatim:       "He creates arguably the most "alternative" devices out there... Flu, cancer, AIDS.. anything. Only thing you need is time."
+Confidence:     0.99
+Risk Tier:      CRITICAL
+Reasoning:      This claim makes definitive assertions that an unnamed device cures three serious, life-threatening conditions (flu, cancer, AIDS) with zero supporting evidence. No PubMed, FDA, or NIH data exists. The claim targets vulnerable populations (cancer and AIDS patients) who may delay or abandon proven, e
+Key Evidence:   NO EVIDENCE FOUND in PubMed, FDA, or NIH databases combined with definitive curative claims for serious diseases.
+Recommendation: Healthcare providers should warn patients against this unproven device. Cancer and AIDS patients require evidence-based treatment (chemotherapy, antiretrovirals, immunotherapy). Delaying these for unp
+PubMed hits:    0
+FDA events:     0
+NIH ref:        No
+Source URL:     https://reddit.com/r/AlternativeHealth/comments/1o627ls/curious_if_anyone_knows_what_this_is/
+
+--- Example 2 ---
+Platform:       reddit
+Product:        apple flavored livestock dewormer paste
+Claimed Effect: prevented early morning bathroom visits after just one dose
+Target:         diarrhea, frequent urination
+Strength:       anecdotal
+Category:       drug_misuse
+Verbatim:       "After just one dose I didn't wake up at 4:30. That was the first big shift."
+Confidence:     0.99
+Risk Tier:      CRITICAL
+Reasoning:      This claim promotes use of veterinary dewormer (intended for livestock) as human medicine. No evidence supports its efficacy for stated conditions in humans. Using animal pharmaceuticals carries serious risks: unknown human dosing, lack of quality control, potential toxins, and unidentified active i
+Key Evidence:   NO EVIDENCE FOUND in PubMed, FDA, or NIH databases for this product's human use. Veterinary products lack FDA approval for human consumption and safety testing in humans.
+Recommendation: Strongly discourage use of veterinary products for human treatment. Recommend consulting a healthcare provider for persistent urination or diarrhea to identify underlying causes (UTI, IBS, diabetes, e
+PubMed hits:    0
+FDA events:     0
+NIH ref:        No
+Source URL:     https://reddit.com/r/AlternativeHealth/comments/1ko6zjc/this_helped_reset_my_gut_after_a_year_of_misery/
+
+--- Example 3 ---
+Platform:       youtube
+Product:        unspecified drink/beverage
+Claimed Effect: eliminates diabetes as a health concern
+Target:         diabetes
+Strength:       definitive
+Category:       disease_cure
+Verbatim:       "Diabities is no more a concern among the population"
+Confidence:     0.99
+Risk Tier:      CRITICAL
+Reasoning:      This claim makes a definitive assertion that an unspecified beverage 'eliminates' diabetes as a health concern—a statement with no scientific support. No evidence exists in major medical databases (PubMed, FDA, NIH). The claim is dangerous because it suggests diabetes is no longer a concern, potenti
+Key Evidence:   NO EVIDENCE FOUND in PubMed, FDA, or NIH databases. Diabetes remains a major global health concern requiring individualized medical management.
+Recommendation: Healthcare professionals must advise patients that diabetes requires ongoing treatment and monitoring. Any product making cure claims without clinical evidence should be rejected. Patients should not 
+PubMed hits:    0
+FDA events:     0
+NIH ref:        No
+Source URL:     https://www.youtube.com/watch?v=pIFKdl9zw5c
+
+--- Example 4 ---
+Platform:       youtube
+Product:        unspecified resource/product
+Claimed Effect: cure diabetes
+Target:         diabetes
+Strength:       definitive
+Category:       disease_cure
+Verbatim:       "Click on this link now to find the best resource available about curing diabetes"
+Confidence:     0.99
+Risk Tier:      CRITICAL
+Reasoning:      This claim makes a definitive statement that a resource can 'cure diabetes' without specifying the product, resource type, or providing any scientific evidence. No supporting evidence exists in peer-reviewed literature. Diabetes is a chronic metabolic disease requiring ongoing medical management. Pr
+Key Evidence:   NO EVIDENCE FOUND in PubMed, FDA, or NIH databases. Diabetes remains incurable; management focuses on glycemic control and complication prevention.
+Recommendation: Healthcare professionals should counsel patients that diabetes cannot be cured by any unproven resource. Evidence-based treatment includes medication, lifestyle modification, and monitoring. Report th
+PubMed hits:    0
+FDA events:     0
+NIH ref:        No
+Source URL:     https://www.youtube.com/watch?v=RJNS7jXdgmk
+
+--- Example 5 ---
+Platform:       youtube
+Product:        placebo
+Claimed Effect: cure cancer
+Target:         cancer
+Strength:       suggestive
+Category:       disease_cure
+Verbatim:       "if you get a placebo that supposedly cure cardiovascular disease or cancer, or make your muscles grow, actually clean up your arteries, kill cancercells and grow your muscles"
+Confidence:     0.99
+Risk Tier:      CRITICAL
+Reasoning:      The claim that placebos can 'cure cancer' or 'kill cancer cells' is demonstrably false and dangerous. Placebos are inert substances that produce effects only through psychological mechanisms; they cannot create physiological changes like killing cancer cells or treating cardiovascular disease. The r
+Key Evidence:   Evidence [2] and [3] demonstrate that cancer and radiation necrosis require active pharmaceutical interventions (bevacizumab, chemotherapy), not placebos. No evidence supports placebo efficacy for cancer treatment. Placebos have documented physiological limits—they cannot kill cancer cells or cure m
+Recommendation: Healthcare providers must strongly counter this claim. Cancer patients should be directed to evidence-based oncology treatments. This claim poses critical risk if it delays or replaces legitimate canc
+PubMed hits:    5
+FDA events:     3
+NIH ref:        No
+Source URL:     https://www.youtube.com/watch?v=L4G_xyyA66w
+
+--- Example 6 ---
+Platform:       youtube
+Product:        Colloidal Silver
+Claimed Effect: eliminates cancer
+Target:         cancer
+Strength:       definitive
+Category:       disease_cure
+Verbatim:       "Colloidal Silver eliminates over 650 pathogens including Cancer and all Viruses"
+Confidence:     0.99
+Risk Tier:      CRITICAL
+Reasoning:      The claim that colloidal silver 'eliminates cancer' is unsupported by any RCT or systematic review evidence. No credible scientific data supports anticancer efficacy. The product carries documented adverse effects including gastrointestinal hemorrhage, hepatorenal syndrome, and encephalopathy. This 
+Key Evidence:   No relevant RCTs or systematic reviews found in PubMed; FDA adverse events include serious gastrointestinal and hepatic toxicity; NIH/NCCIH maintains a dedicated fact sheet (typically indicating consumer protection concerns about unsubstantiated claims).
+Recommendation: Healthcare providers should advise cancer patients to avoid colloidal silver and continue evidence-based oncology treatment. Patients should be counseled that no scientific evidence supports colloidal
+PubMed hits:    0
+FDA events:     3
+NIH ref:        Yes
+Source URL:     https://www.youtube.com/watch?v=aXPepFVNDpk
+
+--- Example 7 ---
+Platform:       youtube
+Product:        wheatgrass
+Claimed Effect: cured HIV
+Target:         HIV
+Strength:       definitive
+Category:       disease_cure
+Verbatim:       "Wheatgrass cured HIV too, and as soon as it got out, it is no longer on the market."
+Confidence:     0.99
+Risk Tier:      CRITICAL
+Reasoning:      The claim asserts wheatgrass cures HIV—a life-threatening condition requiring proven antiretroviral therapy. No PubMed evidence supports this claim. The conspiracy narrative ('removed from market') is a red flag for medical misinformation. Promoting unproven alternatives for HIV diverts patients fro
+Key Evidence:   PubMed: No relevant systematic reviews or RCTs found supporting wheatgrass as an HIV treatment, combined with the definitive cure claim lacking any scientific basis.
+Recommendation: Health professionals must firmly counter this claim. HIV requires antiretroviral therapy (ART), which achieves undetectable viral loads and prevents transmission. Patients should consult infectious di
+PubMed hits:    0
+FDA events:     3
+NIH ref:        No
+Source URL:     https://www.youtube.com/watch?v=c9q9K_BAvvk
+
+--- Example 8 ---
+Platform:       youtube
+Product:        Food Grade Hydrogen Peroxide (35%)
+Claimed Effect: Implied to be a health treatment or cure (reason for ingestion not explicitly stated, but context suggests belief in health benefits)
+Target:         general health
+Strength:       anecdotal
+Category:       other
+Verbatim:       "i was notified of the death of my good friend. I asked what had happened and was shocked to learn she had purposely ingested Hydrogen peroxide!"
+Confidence:     0.99
+Risk Tier:      CRITICAL
+Reasoning:      The narrative describes a fatal outcome from intentional ingestion of 35% food-grade hydrogen peroxide. This concentration is highly toxic when ingested. Hydrogen peroxide ingestion causes gas embolism (air bubbles in blood vessels), gastrointestinal hemorrhage, respiratory distress, and death. The 
+Key Evidence:   The reported death from intentional hydrogen peroxide ingestion, combined with established toxicology: 35% H2O2 is corrosive and causes systemic gas embolism when ingested. Even small amounts can be fatal. Medical literature documents multiple fatalities from similar ingestions.
+Recommendation: Healthcare providers must warn patients that ingesting any concentration of hydrogen peroxide, especially 35% food-grade, is life-threatening and has no therapeutic benefit. Immediate emergency care (
+PubMed hits:    0
+FDA events:     0
+NIH ref:        No
+Source URL:     https://www.youtube.com/watch?v=Eec98ie0Plg
+
+--- Example 9 ---
+Platform:       reddit
+Product:        unspecified alternative/natural treatments
+Claimed Effect: cures cancer
+Target:         cancer
+Strength:       definitive
+Category:       disease_cure
+Verbatim:       "There are so many cures for cancer pretty much all of them never see the light of day because it's not a good business plan for our greedy, billionaire overlords."
+Confidence:     0.98
+Risk Tier:      CRITICAL
+Reasoning:      This claim makes definitive assertions about cancer cures without scientific evidence while promoting conspiracy narratives. No peer-reviewed evidence supports the existence of hidden cancer cures. The claim is particularly dangerous because it targets cancer patients—a vulnerable population—and imp
+Key Evidence:   NO EVIDENCE FOUND in PubMed, FDA, or NIH databases combined with the definitive claim targeting a life-threatening condition represents a critical safety gap.
+Recommendation: Healthcare providers should counsel patients that cancer treatment requires individualized, evidence-based approaches. Patients should consult oncologists before considering any alternative treatments
+PubMed hits:    0
+FDA events:     0
+NIH ref:        No
+Source URL:     https://reddit.com/r/AlternativeHealth/comments/1qsopt0/the_hoxsey_formula/o33bs5o/
+
+--- Example 10 ---
+Platform:       youtube
+Product:        nature/Earth remedies
+Claimed Effect: provides cure for all diseases
+Target:         general health
+Strength:       definitive
+Category:       disease_cure
+Verbatim:       "Nature has the cure, Earth has already provided the cure for our diseases."
+Confidence:     0.98
+Risk Tier:      CRITICAL
+Reasoning:      This claim makes an absolute, unsupported assertion that nature provides cures for 'all diseases.' No scientific evidence supports universal cures from natural sources. The claim is dangerous because it: (1) promotes magical thinking over evidence-based medicine, (2) could delay critical treatments 
+Key Evidence:   NO EVIDENCE FOUND in PubMed, FDA, or NIH databases for this claim. Absence of supporting data combined with absolute language constitutes a false health claim.
+Recommendation: Healthcare providers should counsel patients that while some natural compounds have medicinal value (properly studied and regulated), no natural source cures all diseases. Evidence-based treatment tai
+PubMed hits:    0
+FDA events:     0
+NIH ref:        No
+Source URL:     https://www.youtube.com/watch?v=A_fAvAUqTg0
+
+--- Example 11 ---
+Platform:       youtube
+Product:        intermittent fasting (IF), diet, exercise, meditation, and spiritual work
+Claimed Effect: heals breast cancer
+Target:         breast cancer
+Strength:       anecdotal
+Category:       disease_cure
+Verbatim:       "I am healing from breast cancer and am only doing it thru IF, diet, excercise ad meditation and spiritual work. Stopped my cancer treatments a year ago."
+Confidence:     0.98
+Risk Tier:      CRITICAL
+Reasoning:      This claim promotes cessation of proven cancer treatments in favor of unproven lifestyle interventions. While IF, diet, exercise, and meditation may have supportive roles in cancer care, no evidence supports they can replace evidence-based oncology treatments. The claim explicitly states the person 
+Key Evidence:   NO EVIDENCE FOUND in PubMed, FDA, or NIH databases for IF/lifestyle interventions as primary breast cancer treatment. Conversely, established guidelines strongly recommend surgery, chemotherapy, radiation, and/or hormone therapy based on tumor characteristics.
+Recommendation: A health professional would advise: (1) Resuming evidence-based oncologic care immediately; (2) Lifestyle modifications (diet, exercise, meditation) should complement, not replace, medical treatment; 
+PubMed hits:    0
+FDA events:     0
+NIH ref:        No
+Source URL:     https://www.youtube.com/watch?v=A_fAvAUqTg0
+
+--- Example 12 ---
+Platform:       youtube
+Product:        treatment by Dr itoya
+Claimed Effect: cures cancer without side effects
+Target:         cancer
+Strength:       anecdotal
+Category:       disease_cure
+Verbatim:       "finally the cure has been provided by the great doctor who happens to be Dr itoya thank you doctor for making me cancer negative completely without any side effects"
+Confidence:     0.98
+Risk Tier:      CRITICAL
+Reasoning:      This claim makes an unsubstantiated cure assertion for cancer with no supporting evidence in any major medical database (PubMed, FDA, NIH). The anecdotal testimonial cannot establish efficacy. More critically, promoting unproven treatments as cancer cures directly endangers patients by encouraging t
+Key Evidence:   NO EVIDENCE FOUND in PubMed, FDA, or NIH databases combined with the claim targeting a life-threatening disease with an unproven intervention.
+Recommendation: Cancer patients should consult oncologists at accredited cancer centers. Any treatment decisions must be based on clinical trials and evidence-based medicine. Report such claims to the FDA's MedWatch 
+PubMed hits:    0
+FDA events:     0
+NIH ref:        No
+Source URL:     https://www.youtube.com/watch?v=MiJOMw4pES4
+
+--- Example 13 ---
+Platform:       youtube
+Product:        basil leaves
+Claimed Effect: cure cancer
+Target:         cancer
+Strength:       definitive
+Category:       disease_cure
+Verbatim:       "Basil leaves also cure Cancer."
+Confidence:     0.98
+Risk Tier:      CRITICAL
+Reasoning:      This claim makes a definitive assertion that basil 'cures cancer'—a serious disease requiring evidence-based medical treatment. No credible evidence from PubMed, FDA, or NIH supports basil as a cancer cure. While basil contains bioactive compounds under laboratory study, no clinical trials demonstra
+Key Evidence:   NO EVIDENCE FOUND in PubMed, FDA, or NIH databases for basil as a cancer cure. In vitro studies of basil compounds do not translate to clinical efficacy in humans.
+Recommendation: Healthcare providers should counsel cancer patients that basil is not a treatment substitute. While basil may be consumed as food, it should never replace evidence-based oncology care. Patients should
+PubMed hits:    0
+FDA events:     0
+NIH ref:        No
+Source URL:     https://www.youtube.com/watch?v=MiJOMw4pES4
+
+--- Example 14 ---
+Platform:       youtube
+Product:        Apple Cider Vinegar (ACV)
+Claimed Effect: treats kidney infection better than regular medical doctors
+Target:         kidney infection
+Strength:       anecdotal
+Category:       disease_cure
+Verbatim:       "Regular medical drs. Could do nothing. After implementing this advice I was better and back in school in one week."
+Confidence:     0.98
+Risk Tier:      CRITICAL
+Reasoning:      This claim promotes ACV as a replacement for medical treatment of kidney infection—a serious bacterial condition requiring antibiotics. Kidney infections (pyelonephritis) can progress to sepsis and permanent renal damage if untreated. The anecdotal recovery described may reflect spontaneous resoluti
+Key Evidence:   NO EVIDENCE FOUND in PubMed, FDA, or NIH databases for ACV treating kidney infections. Kidney infections are bacterial infections requiring evidence-based antibiotic therapy per standard medical guidelines.
+Recommendation: Healthcare providers must counsel patients that kidney infections are medical emergencies requiring prompt antibiotic treatment and possibly hospitalization. ACV has no proven role in UTI/kidney infec
+PubMed hits:    0
+FDA events:     0
+NIH ref:        No
+Source URL:     https://www.youtube.com/watch?v=plPBBreTJYY
+
+--- Example 15 ---
+Platform:       youtube
+Product:        Colloidal Silver
+Claimed Effect: eliminates cancer
+Target:         cancer
+Strength:       definitive
+Category:       disease_cure
+Verbatim:       "Colloidal Silver eliminates over 650 pathogens including Cancer and all Viruses and MORE"
+Confidence:     0.98
+Risk Tier:      CRITICAL
+Reasoning:      No clinical evidence supports colloidal silver as a cancer treatment. The claim falsely suggests efficacy against 650+ pathogens including cancer without any supporting RCTs or systematic reviews. Simultaneously, FDA adverse event data documents serious harm including gastrointestinal hemorrhage, he
+Key Evidence:   No relevant RCTs/systematic reviews found + FDA adverse events (gastrointestinal hemorrhage, hepatorenal syndrome, encephalopathy) + NIH/NCCIH fact sheet exists (indicating regulatory concern)
+Recommendation: Healthcare providers should: (1) strongly advise against colloidal silver for any condition, especially cancer; (2) counsel patients on evidence-based cancer treatments; (3) report this marketing clai
+PubMed hits:    0
+FDA events:     3
+NIH ref:        Yes
+Source URL:     https://www.youtube.com/watch?v=qviTHUuJsMw
+
+--- Example 16 ---
+Platform:       youtube
+Product:        Colloidal Silver
+Claimed Effect: eliminates over 650 pathogens including Cancer and all Viruses
+Target:         cancer, viral infections, general pathogen elimination
+Strength:       definitive
+Category:       disease_cure
+Verbatim:       "Colloidal Silver eliminates over 650 pathogens including Cancer and all Viruses and much More"
+Confidence:     0.98
+Risk Tier:      CRITICAL
+Reasoning:      The claim makes definitive statements that colloidal silver 'eliminates' cancer and 'all viruses'—assertions unsupported by any RCTs or systematic reviews in PubMed. FDA adverse event data documents serious harm including gastrointestinal hemorrhage, hepatorenal syndrome, and encephalopathy. Most cr
+Key Evidence:   No relevant systematic reviews or RCTs found supporting efficacy; FDA adverse events include serious gastrointestinal and neurological complications; NIH/NCCIH has a cautionary fact sheet on colloidal silver.
+Recommendation: Patients with cancer or viral infections should consult oncologists or infectious disease specialists for evidence-based treatment. Colloidal silver is not FDA-approved for internal use and poses docu
+PubMed hits:    0
+FDA events:     3
+NIH ref:        Yes
+Source URL:     https://www.youtube.com/watch?v=A3TMsb6494g
+
+--- Example 17 ---
+Platform:       youtube
+Product:        Mebendazole and Ivermectin combination
+Claimed Effect: cures cancer
+Target:         cancer
+Strength:       definitive
+Category:       disease_cure
+Verbatim:       "Cancer is not a death sentence; it can be cured. Please spread the word about this medicine."
+Confidence:     0.98
+Risk Tier:      CRITICAL
+Reasoning:      No credible evidence supports mebendazole or ivermectin as cancer treatments. These are antiparasitic medications with no established oncologic efficacy. The claim makes a definitive cure assertion without scientific basis, directly targets cancer patients (a vulnerable population), and implies pati
+Key Evidence:   NO EVIDENCE FOUND in PubMed, FDA, or NIH databases for this indication. Mebendazole and ivermectin are anthelmintics; cancer is a fundamentally different disease requiring targeted oncologic interventions.
+Recommendation: Healthcare providers should counsel patients that antiparasitic drugs are not cancer treatments. Cancer patients must pursue evidence-based therapies (surgery, chemotherapy, radiation, immunotherapy, 
+PubMed hits:    0
+FDA events:     0
+NIH ref:        No
+Source URL:     https://www.youtube.com/watch?v=PrTxIPWj82E
+
+--- Example 18 ---
+Platform:       youtube
+Product:        Ivermectin
+Claimed Effect: treats stage 4 lung cancer
+Target:         stage 4 lung cancer
+Strength:       anecdotal
+Category:       disease_cure
+Verbatim:       "I've been taking 2 x 12mg Ivermectin and 444mg of Fenbendazole each day since the diagnosis... my neck tumors disappeared within 10 days."
+Confidence:     0.98
+Risk Tier:      CRITICAL
+Reasoning:      This claim promotes use of veterinary antiparasitic drugs (ivermectin and fenbendazole) as cancer treatment without clinical evidence. No RCTs or systematic reviews support this combination for lung cancer. The anecdotal report of tumor regression lacks verification and could represent misdiagnosis,
+Key Evidence:   PubMed: No relevant systematic reviews or RCTs found + FDA adverse events documenting depressed consciousness, hemorrhage, and serious outcomes + claim targets stage 4 cancer (high-mortality condition requiring urgent proven treatment)
+Recommendation: Stage 4 lung cancer requires immediate oncology consultation for evidence-based treatment (chemotherapy, targeted therapy, immunotherapy). Ivermectin/fenbendazole are not indicated and may delay criti
+PubMed hits:    0
+FDA events:     3
+NIH ref:        No
+Source URL:     https://www.youtube.com/watch?v=oPLqm1BBwss
+
+--- Example 19 ---
+Platform:       youtube
+Product:        Black Seed Oil
+Claimed Effect: cures or treats stage 4 breast cancer without chemotherapy or radiation
+Target:         stage 4 breast cancer
+Strength:       anecdotal
+Category:       disease_cure
+Verbatim:       "my cousin was diagnosed with stage 4 breast cancer was told she had 6 months to live.. she didn't do any chemotherapy nor radiation.. still alive over 6 years with just a very tiny lump"
+Confidence:     0.98
+Risk Tier:      CRITICAL
+Reasoning:      This claim promotes forgoing evidence-based cancer treatment (chemotherapy/radiation) in favor of an unproven supplement for stage 4 breast cancer—a life-threatening condition. The anecdote lacks medical verification and may represent survivorship bias, spontaneous remission, or misdiagnosis. No RCT
+Key Evidence:   No relevant systematic reviews or RCTs found supporting black seed oil for breast cancer treatment; FDA adverse events include serious reactions (gastric perforation, sepsis, vasculitis). Stage 4 breast cancer requires evidence-based multimodal treatment.
+Recommendation: Healthcare professionals should advise cancer patients that stage 4 breast cancer is a medical emergency requiring oncology consultation. While complementary approaches may support conventional treatm
+PubMed hits:    0
+FDA events:     3
+NIH ref:        No
+Source URL:     https://www.youtube.com/watch?v=Cs7JJzvF3L8
+
+--- Example 20 ---
+Platform:       youtube
+Product:        black seed oil
+Claimed Effect: cures all illnesses
+Target:         general health
+Strength:       definitive
+Category:       disease_cure
+Verbatim:       "Black Seed cures all illnesses but death"
+Confidence:     0.98
+Risk Tier:      HIGH
+Reasoning:      The claim uses absolutist language ('cures all illnesses but death') without scientific support. No relevant systematic reviews or RCTs were found confirming efficacy for any condition, let alone all illnesses. The FDA adverse events data documents serious complications including gastric perforation
+Key Evidence:   FDA Adverse Events reports serious outcomes (gastric perforation, sepsis, vasculitis) with no supporting evidence of therapeutic benefit. Absence of RCT/systematic review evidence combined with documented adverse events contradicts curative claims.
+Recommendation: Health professionals should counsel patients that black seed oil lacks evidence as a treatment for any disease and may cause serious adverse effects. Patients should not use it as an alternative to pr
+PubMed hits:    0
+FDA events:     3
+NIH ref:        No
+Source URL:     https://www.youtube.com/watch?v=Cs7JJzvF3L8
+

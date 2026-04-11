@@ -1,0 +1,43 @@
+{
+  "total_claims": 8250,
+  "by_platform": {
+    "reddit": 2604,
+    "youtube": 5646
+  },
+  "by_risk_category": {
+    "anti_aging": 104,
+    "supplement_efficacy": 4478,
+    "other": 944,
+    "detox": 297,
+    "drug_misuse": 748,
+    "mental_health": 563,
+    "disease_cure": 674,
+    "weight_loss": 442
+  },
+  "by_claim_strength": {
+    "definitive": 1469,
+    "suggestive": 3507,
+    "anecdotal": 3271,
+    "anecdotic": 3
+  },
+  "veracity_distribution": {
+    "EXAGGERATED": 1851,
+    "UNSUPPORTED": 4945,
+    "SUPPORTED": 576,
+    "CONTRADICTED": 165,
+    "DANGEROUS": 713
+  },
+  "risk_distribution": {
+    "MODERATE": 4706,
+    "LOW": 2431,
+    "CRITICAL": 574,
+    "HIGH": 539
+  },
+  "mean_confidence": 0.8663850163656199,
+  "median_confidence": 0.85,
+  "baseline_veracity_distribution": {
+    "EXAGGERATED": 131,
+    "UNSUPPORTED": 7986,
+    "DANGEROUS": 133
+  }
+}

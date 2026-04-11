@@ -1,0 +1,364 @@
+================================================================================
+VERIFICATION EXAMPLES: UNSUPPORTED (4945 total)
+================================================================================
+
+--- Example 1 ---
+Platform:       youtube
+Product:        Kratom
+Claimed Effect: maintaining the balance of nature and reducing erosion/abrasion
+Target:         environmental health
+Strength:       definitive
+Category:       other
+Verbatim:       "kratom can become the main foundation to reduce the impact of erosion and abrasion on the riverbank"
+Confidence:     0.98
+Risk Tier:      LOW
+Reasoning:      The claim concerns kratom's environmental impact on riverbank erosion/abrasion—a forestry/environmental engineering matter. Retrieved evidence addresses only kratom's pharmacokinetics and human health safety concerns. No scientific evidence was found evaluating kratom's effectiveness for erosion con
+Key Evidence:   All retrieved evidence focuses on kratom's pharmacological properties (mitragynine alkaloid) and adverse health events in humans. Zero evidence addresses environmental applications or erosion/abrasion mitigation.
+Recommendation: Health professionals should not address this claim as it falls outside biomedical scope. Environmental scientists would need to evaluate the forestry/soil stabilization claim using soil mechanics, hyd
+PubMed hits:    1
+FDA events:     3
+NIH ref:        Yes
+Source URL:     https://www.youtube.com/watch?v=zLqSmJIrTl8
+
+--- Example 2 ---
+Platform:       reddit
+Product:        liver support (general)
+Claimed Effect: helps liver function properly
+Target:         liver health
+Strength:       suggestive
+Category:       supplement_efficacy
+Verbatim:       "certain nutrients that help liver function properly"
+Confidence:     0.95
+Risk Tier:      MODERATE
+Reasoning:      The retrieved evidence focuses on epidemiology and prevalence of liver diseases (NAFLD, NASH) and does not contain any studies evaluating specific nutrients or liver support products and their effects on liver function. While the claim uses appropriately cautious language ('suggestive' strength, 'ce
+Key Evidence:   All retrieved articles (1-5) address disease prevalence, burden, and risk factors rather than nutrient interventions or liver support products. Article [4] on coffee mentions health outcomes but was cut off and no abstract provided to assess relevance.
+Recommendation: Health professionals should advise patients that while certain nutrients are essential for hepatic metabolism, claims about 'liver support' products lack robust clinical evidence. Recommend evidence-b
+PubMed hits:    5
+FDA events:     0
+NIH ref:        No
+Source URL:     https://reddit.com/r/Supplements/comments/1sfkfps/are_we_ignoring_one_of_the_most_important_organs/
+
+--- Example 3 ---
+Platform:       reddit
+Product:        liver detox/cleanse products (implied)
+Claimed Effect: detoxification in 3 days
+Target:         general health
+Strength:       definitive
+Category:       detox
+Verbatim:       "not those crazy 'detox in 3 days' claims"
+Confidence:     0.95
+Risk Tier:      MODERATE
+Reasoning:      The claim references 'detox in 3 days' as an unrealistic marketing assertion (negatively). However, no scientific evidence was found to support that rapid liver detoxification is achievable or that commercial detox products provide meaningful clinical benefit. The liver has inherent detoxification c
+Key Evidence:   NO EVIDENCE FOUND in PubMed, FDA, or NIH databases for detox/cleanse product efficacy
+Recommendation: Healthcare providers should counsel patients that commercial detox products lack scientific support and that the liver self-regulates without intervention. Focus on evidence-based approaches: adequate
+PubMed hits:    0
+FDA events:     0
+NIH ref:        No
+Source URL:     https://reddit.com/r/Supplements/comments/1sfkfps/are_we_ignoring_one_of_the_most_important_organs/
+
+--- Example 4 ---
+Platform:       reddit
+Product:        Camu Camu berry powder
+Claimed Effect: provides better results than other forms of Vitamin C
+Target:         general health
+Strength:       anecdotal
+Category:       supplement_efficacy
+Verbatim:       "Somebody I chatted with claimed that he tried all forms and didn't get great results until he tried the natural ( Camu Camu Berry powder )."
+Confidence:     0.95
+Risk Tier:      LOW
+Reasoning:      The claim is based on a single anecdotal account without scientific validation. No peer-reviewed studies, systematic reviews, or RCTs were found in major biomedical databases comparing camu camu berry powder to other vitamin C forms. While camu camu is a legitimate source of vitamin C, the assertion
+Key Evidence:   NO EVIDENCE FOUND in PubMed, FDA, or NIH databases for this specific comparative claim
+Recommendation: Health professionals would note that camu camu berry is a valid vitamin C source but advise that no superior benefit has been demonstrated over other bioavailable forms (ascorbic acid, other natural s
+PubMed hits:    0
+FDA events:     0
+NIH ref:        No
+Source URL:     https://reddit.com/r/Supplements/comments/1sfz99d/what_is_the_best_form_of_vitamin_c/
+
+--- Example 5 ---
+Platform:       reddit
+Product:        Liposomal Vitamin C
+Claimed Effect: superior form/better results compared to other Vitamin C forms
+Target:         general health
+Strength:       suggestive
+Category:       supplement_efficacy
+Verbatim:       "my research so far has me leaning toward liposomal Vitamin c"
+Confidence:     0.95
+Risk Tier:      MODERATE
+Reasoning:      The claim that liposomal vitamin C is superior lacks high-quality clinical evidence. No systematic reviews or RCTs were found to support superiority over other vitamin C forms. While the statement is tentative ('leaning toward'), it represents personal preference without scientific backing. FDA adve
+Key Evidence:   PubMed search yielded no relevant systematic reviews or RCTs comparing liposomal vitamin C to other forms, combined with FDA reports of serious adverse events including chronic kidney disease and renal failure.
+Recommendation: Consult the NIH/NCCIH vitamin C fact sheet for evidence-based information. Standard oral vitamin C supplementation is well-established; any form choice should be guided by healthcare providers, partic
+PubMed hits:    0
+FDA events:     3
+NIH ref:        Yes
+Source URL:     https://reddit.com/r/Supplements/comments/1sfz99d/what_is_the_best_form_of_vitamin_c/
+
+--- Example 6 ---
+Platform:       reddit
+Product:        supplements (unspecified)
+Claimed Effect: produces calm or focused feeling
+Target:         general health
+Strength:       anecdotal
+Category:       supplement_efficacy
+Verbatim:       "Some supplements people talk about feeling calm or focused on."
+Confidence:     0.95
+Risk Tier:      LOW
+Reasoning:      The retrieved evidence contains no studies examining supplement efficacy for calm or focused feelings. The PubMed results focus on emotion-regulation strategies, trauma therapy, and nursing support—not supplement effects. The FDA adverse events data shows various side effects but doesn't validate th
+Key Evidence:   No relevant studies in the retrieved evidence examine supplements' effects on calmness or focus. All articles address psychological interventions or clinical populations, not supplement supplementation.
+Recommendation: Healthcare providers should advise patients that anecdotal reports are insufficient evidence. Any supplement claims require specific clinical trial data. Patients should consult their physician before
+PubMed hits:    5
+FDA events:     3
+NIH ref:        No
+Source URL:     https://reddit.com/r/Supplements/comments/1sflcr4/does_anyone_else_feel_too_good_on_certain/
+
+--- Example 7 ---
+Platform:       reddit
+Product:        magnesium
+Claimed Effect: necessary for vitamin D supplement effectiveness
+Target:         general health
+Strength:       suggestive
+Category:       supplement_efficacy
+Verbatim:       "Number 3: You're not taking magnesium"
+Confidence:     0.95
+Risk Tier:      LOW
+Reasoning:      The claim asserts magnesium is necessary for vitamin D supplement effectiveness, but the retrieved evidence does not establish this relationship. The PubMed articles discuss vitamin D supplementation outcomes and multivitamin maintenance, but none demonstrate that magnesium is required for vitamin D
+Key Evidence:   Retrieved articles discuss vitamin D supplementation independently without mentioning magnesium as a cofactor for its effectiveness. No mechanistic or clinical evidence provided shows magnesium is necessary for vitamin D function.
+Recommendation: A health professional would note that while both magnesium and vitamin D are important micronutrients with independent roles, the specific claim that magnesium is necessary for vitamin D effectiveness
+PubMed hits:    3
+FDA events:     3
+NIH ref:        Yes
+Source URL:     https://reddit.com/r/Supplements/comments/1sfth8f/4_vitamin_d_mistakes/
+
+--- Example 8 ---
+Platform:       reddit
+Product:        Magnesium L-Threonate
+Claimed Effect: treats or reduces migraine headaches
+Target:         migraine headaches
+Strength:       suggestive
+Category:       supplement_efficacy
+Verbatim:       "Im taking it for migraine headaches."
+Confidence:     0.95
+Risk Tier:      MODERATE
+Reasoning:      No randomized controlled trials or systematic reviews were found evaluating magnesium L-threonate for migraine headaches. While magnesium generally has some evidence for migraine prevention, the specific form (L-threonate) lacks clinical trial data for this indication. The claim represents personal 
+Key Evidence:   PubMed search returned no relevant systematic reviews or RCTs for magnesium L-threonate and migraines; only general NIH magnesium reference available
+Recommendation: Patients should consult healthcare providers before using magnesium L-threonate for migraines. Evidence-based approaches (standard magnesium supplementation, preventive medications, lifestyle modifica
+PubMed hits:    0
+FDA events:     3
+NIH ref:        Yes
+Source URL:     https://reddit.com/r/Supplements/comments/1sfv6bd/magnesium_l_threonate/
+
+--- Example 9 ---
+Platform:       reddit
+Product:        magnesium
+Claimed Effect: causes vivid dreams
+Target:         general health
+Strength:       anecdotal
+Category:       other
+Verbatim:       "Do you get Vivid Dreams on Magnesium? I've been eating my magnesium in pumpkin seeds (Magnesium superfood) nearer to night just so I'm not too sleepy during the day, but I'm getting pretty vivid dream"
+Confidence:     0.95
+Risk Tier:      LOW
+Reasoning:      The claim about magnesium causing vivid dreams is presented as anecdotal personal experience. No PubMed systematic reviews or RCTs were found to support or refute this specific claim. While magnesium does play roles in sleep regulation and nervous system function, the mechanism linking it to vivid d
+Key Evidence:   PubMed search returned 'No relevant systematic reviews or RCTs found' for magnesium and vivid dreams, indicating insufficient evidence to validate the claim despite plausibility based on magnesium's neurological roles.
+Recommendation: While consuming magnesium from pumpkin seeds poses minimal risk at normal dietary levels, the vivid dreams effect cannot be confirmed as a direct magnesium effect rather than placebo or other factors.
+PubMed hits:    0
+FDA events:     3
+NIH ref:        Yes
+Source URL:     https://reddit.com/r/Supplements/comments/1sfuyd9/do_you_get_vivid_dreams_on_magnesium/
+
+--- Example 10 ---
+Platform:       reddit
+Product:        Vitamin D
+Claimed Effect: causes disconnection and libido loss
+Target:         general health
+Strength:       anecdotal
+Category:       mental_health
+Verbatim:       "i felt so disconnected my libido totally drop to zero when supplementing"
+Confidence:     0.95
+Risk Tier:      LOW
+Reasoning:      This is an anecdotal report with no supporting scientific evidence. PubMed searches reveal no RCTs or systematic reviews linking vitamin D supplementation to disconnection or libido loss. FDA adverse event data lists unrelated serious reactions (tuberculosis, pulmonary embolism, bone density changes
+Key Evidence:   No relevant systematic reviews or RCTs found on PubMed; FDA adverse events do not include reported libido or disconnection symptoms
+Recommendation: Acknowledge the individual's experience while clarifying it represents one person's anecdote. Recommend consulting a healthcare provider if experiencing persistent sexual dysfunction or mood changes, 
+PubMed hits:    0
+FDA events:     3
+NIH ref:        Yes
+Source URL:     https://reddit.com/r/Supplements/comments/1sfqgms/vit_d_sent_me_to_depresive_episode/
+
+--- Example 11 ---
+Platform:       reddit
+Product:        L-carnitine nitrate
+Claimed Effect: enhances performance during heavy lifting
+Target:         general health
+Strength:       suggestive
+Category:       supplement_efficacy
+Verbatim:       "I am interested in taking L'carnitine nitrate just before heavy lifting"
+Confidence:     0.95
+Risk Tier:      LOW
+Reasoning:      No relevant evidence was found in major biomedical databases (PubMed, FDA, NIH) to support L-carnitine nitrate's use for heavy lifting performance. While L-carnitine has been studied for general athletic performance with mixed results, the specific combination of L-carnitine nitrate and its acute pr
+Key Evidence:   NO EVIDENCE FOUND in PubMed, FDA, or NIH databases for this specific claim.
+Recommendation: Individuals interested in performance enhancement during resistance training should focus on evidence-based interventions: adequate protein intake, progressive resistance training, sufficient sleep, a
+PubMed hits:    0
+FDA events:     0
+NIH ref:        No
+Source URL:     https://reddit.com/r/Supplements/comments/1sfq82d/do_i_need_to_supplement_with_lcarnitine_nitrate/
+
+--- Example 12 ---
+Platform:       reddit
+Product:        vitamin C
+Claimed Effect: treatment for mold exposure
+Target:         mold exposure/mold illness
+Strength:       suggestive
+Category:       detox
+Verbatim:       "my neuropath thought I am suffering from mold he adviced me to take zeolite, NAC, vitamin C and berberine"
+Confidence:     0.95
+Risk Tier:      MODERATE
+Reasoning:      No systematic reviews or RCTs support vitamin C as a treatment for mold exposure/mold illness. The evidence search yielded no relevant clinical studies confirming efficacy. While vitamin C has established roles in general health (per NIH/NCCIH), there is no evidence it treats mold-related conditions
+Key Evidence:   PubMed search: 'No relevant systematic reviews or RCTs found' - absence of clinical evidence supporting the claimed therapeutic effect for mold exposure treatment
+Recommendation: Patients with suspected mold exposure should consult board-certified physicians (allergists, immunologists, or occupational medicine specialists) for evidence-based evaluation and treatment. While vit
+PubMed hits:    0
+FDA events:     3
+NIH ref:        Yes
+Source URL:     https://reddit.com/r/Supplements/comments/1sfnbkp/high_heart_rate_due_to_berberine_or_nac_or_vit_c/
+
+--- Example 13 ---
+Platform:       reddit
+Product:        berberine
+Claimed Effect: treatment for mold exposure
+Target:         mold exposure/mold illness
+Strength:       suggestive
+Category:       detox
+Verbatim:       "my neuropath thought I am suffering from mold he adviced me to take zeolite, NAC, vitamin C and berberine"
+Confidence:     0.95
+Risk Tier:      MODERATE
+Reasoning:      No systematic reviews or RCTs support berberine for mold exposure treatment. While the claim is framed as 'suggestive' rather than definitive, there is zero clinical evidence for this indication. The FDA adverse events data shows berberine can cause serious cardiac, renal, and gastrointestinal effec
+Key Evidence:   PubMed search yielded no relevant systematic reviews or RCTs for berberine in mold exposure; FDA reports serious adverse events including cardiac failure, coronary artery occlusion, nephropathy, and drug interactions.
+Recommendation: Patients should seek proper medical evaluation for suspected mold exposure through board-certified allergists or environmental medicine specialists. Berberine should not be used specifically for mold 
+PubMed hits:    0
+FDA events:     3
+NIH ref:        No
+Source URL:     https://reddit.com/r/Supplements/comments/1sfnbkp/high_heart_rate_due_to_berberine_or_nac_or_vit_c/
+
+--- Example 14 ---
+Platform:       reddit
+Product:        Unknown brand used by holistic health practitioner
+Claimed Effect: resolves bloating and gas issues
+Target:         bloating and gas
+Strength:       anecdotal
+Category:       other
+Verbatim:       "He's helped my father with bloating and gas issues"
+Confidence:     0.95
+Risk Tier:      MODERATE
+Reasoning:      The claim relies solely on anecdotal evidence (personal testimony) with no scientific support. No peer-reviewed studies, systematic reviews, or clinical trials were found to validate the product's efficacy for bloating and gas. The product itself is unidentified, making independent verification impo
+Key Evidence:   NO EVIDENCE FOUND in PubMed, FDA, or NIH databases. Absence of any relevant systematic reviews or RCTs for this unidentified product.
+Recommendation: Patients experiencing persistent bloating or gas should consult a healthcare provider to identify underlying causes (dietary, digestive disorders, medication side effects, etc.). Evidence-based approa
+PubMed hits:    0
+FDA events:     0
+NIH ref:        No
+Source URL:     https://reddit.com/r/Supplements/comments/1sfet9b/where_can_i_purchase_these/
+
+--- Example 15 ---
+Platform:       reddit
+Product:        Unknown brand used by holistic health practitioner
+Claimed Effect: assists with weight loss
+Target:         obesity/weight management
+Strength:       anecdotal
+Category:       weight_loss
+Verbatim:       "he's helping my sisters with weight loss"
+Confidence:     0.95
+Risk Tier:      MODERATE
+Reasoning:      The claim relies solely on anecdotal testimony ('he's helping my sisters') with no product identification and zero scientific evidence. No systematic reviews, RCTs, or safety data exist in major databases. While weight loss claims aren't inherently dangerous, the complete absence of evidence combine
+Key Evidence:   NO EVIDENCE FOUND in PubMed, FDA, or NIH databases - absence of any scientific validation despite searching major biomedical resources
+Recommendation: Recommend patients consult evidence-based weight management programs (lifestyle modification, registered dietitian, behavioral therapy). Request product identification and ingredient list before any c
+PubMed hits:    0
+FDA events:     0
+NIH ref:        No
+Source URL:     https://reddit.com/r/Supplements/comments/1sfet9b/where_can_i_purchase_these/
+
+--- Example 16 ---
+Platform:       reddit
+Product:        P5P (pyridoxal-5-phosphate)
+Claimed Effect: reduces anxiety and OCD rumination
+Target:         anxiety disorder, OCD
+Strength:       anecdotal
+Category:       mental_health
+Verbatim:       "My levels of anxiety and rumination are extremely low now. It feels amazing... I've found a noticeable 'cure' for my OCD rumination and anxiety."
+Confidence:     0.95
+Risk Tier:      MODERATE
+Reasoning:      No peer-reviewed clinical trials or systematic reviews support P5P as a treatment for anxiety or OCD. The claim relies solely on anecdotal personal experience. While P5P (the active form of vitamin B6) is involved in neurotransmitter synthesis, this biological plausibility does not establish clinica
+Key Evidence:   NO EVIDENCE FOUND in PubMed, FDA, or NIH databases for P5P treating anxiety or OCD. Absence of clinical trials distinguishes this from supported psychiatric interventions.
+Recommendation: Healthcare providers should recommend evidence-based treatments (SSRIs, CBT, exposure therapy) for OCD and anxiety disorders. P5P may be considered only if B6 deficiency is documented, and only as adj
+PubMed hits:    0
+FDA events:     0
+NIH ref:        No
+Source URL:     https://reddit.com/r/Supplements/comments/1sfh26a/nac_and_p5p_which_is_more_likely_to_cause_anxiety/
+
+--- Example 17 ---
+Platform:       reddit
+Product:        Vitamin D
+Claimed Effect: reduces cortisol
+Target:         stress/cortisol management
+Strength:       suggestive
+Category:       supplement_efficacy
+Verbatim:       "I am already taking Magnesium Glycinate, Vitamin D, B-Complex and C, Zinc, Milk Thistle"
+Confidence:     0.95
+Risk Tier:      LOW
+Reasoning:      The claim that vitamin D reduces cortisol lacks evidence from systematic reviews or RCTs. The retrieved evidence shows no relevant controlled studies supporting this specific effect. The user is reporting use as part of a supplement regimen, not making an exaggerated therapeutic claim. While FDA adv
+Key Evidence:   PubMed: No relevant systematic reviews or RCTs found
+Recommendation: Consumers should be informed that vitamin D's role in cortisol management is not established through rigorous clinical evidence. While vitamin D supplementation is generally safe at recommended doses,
+PubMed hits:    0
+FDA events:     3
+NIH ref:        Yes
+Source URL:     https://reddit.com/r/Supplements/comments/1sf5787/ashwagandha_tolerance/
+
+--- Example 18 ---
+Platform:       reddit
+Product:        B-Complex
+Claimed Effect: reduces cortisol
+Target:         stress/cortisol management
+Strength:       suggestive
+Category:       supplement_efficacy
+Verbatim:       "I am already taking Magnesium Glycinate, Vitamin D, B-Complex and C, Zinc, Milk Thistle"
+Confidence:     0.95
+Risk Tier:      LOW
+Reasoning:      No relevant systematic reviews or RCTs were found to support B-Complex reducing cortisol. While B-vitamins play roles in stress metabolism and energy production, the specific claim that B-Complex reduces cortisol lacks robust clinical evidence. The statement appears to be a general health regimen ra
+Key Evidence:   PubMed search yielded 'No relevant systematic reviews or RCTs found' for B-Complex and cortisol reduction
+Recommendation: A health professional would advise that while B-Complex vitamins support general health and may play supporting roles in stress response, there is insufficient evidence to claim they specifically redu
+PubMed hits:    0
+FDA events:     3
+NIH ref:        No
+Source URL:     https://reddit.com/r/Supplements/comments/1sf5787/ashwagandha_tolerance/
+
+--- Example 19 ---
+Platform:       reddit
+Product:        Zinc
+Claimed Effect: reduces cortisol
+Target:         stress/cortisol management
+Strength:       suggestive
+Category:       supplement_efficacy
+Verbatim:       "I am already taking Magnesium Glycinate, Vitamin D, B-Complex and C, Zinc, Milk Thistle"
+Confidence:     0.95
+Risk Tier:      LOW
+Reasoning:      No relevant systematic reviews or RCTs were found to support zinc's effect on cortisol reduction. The claim is based on anecdotal evidence (personal supplementation). While zinc is essential for immune and metabolic function, there is insufficient clinical evidence linking it specifically to cortiso
+Key Evidence:   PubMed search returned no relevant systematic reviews or RCTs for zinc and cortisol reduction. NIH/NCCIH maintains a fact sheet on zinc but the retrieved data does not confirm cortisol-reducing effects.
+Recommendation: Patients should consult healthcare providers before using zinc for cortisol management. While zinc supplementation at recommended doses (8-11 mg/day for adults) is generally safe, evidence-based appro
+PubMed hits:    0
+FDA events:     3
+NIH ref:        Yes
+Source URL:     https://reddit.com/r/Supplements/comments/1sf5787/ashwagandha_tolerance/
+
+--- Example 20 ---
+Platform:       reddit
+Product:        Milk Thistle
+Claimed Effect: reduces cortisol
+Target:         stress/cortisol management
+Strength:       suggestive
+Category:       supplement_efficacy
+Verbatim:       "I am already taking Magnesium Glycinate, Vitamin D, B-Complex and C, Zinc, Milk Thistle"
+Confidence:     0.95
+Risk Tier:      LOW
+Reasoning:      No relevant systematic reviews or RCTs exist to support milk thistle's effect on cortisol reduction. The claim is suggestive rather than definitive, which appropriately reflects the lack of evidence. While FDA adverse events are documented (mostly mild GI symptoms), they don't directly contradict th
+Key Evidence:   PubMed: No relevant systematic reviews or RCTs found for milk thistle and cortisol reduction
+Recommendation: A health professional would advise: (1) milk thistle lacks clinical evidence for cortisol management; (2) if stress management is the goal, prioritize evidence-based approaches (exercise, sleep, thera
+PubMed hits:    0
+FDA events:     3
+NIH ref:        No
+Source URL:     https://reddit.com/r/Supplements/comments/1sf5787/ashwagandha_tolerance/
+
