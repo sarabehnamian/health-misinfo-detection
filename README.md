@@ -198,12 +198,10 @@ Counts refer to the **classified** JSONL currently in the repo (**8,250** claims
 
 ### Authors
 
-1. Sara Behnamian∗ — Globe Institute, University of Copenhagen  
-2. Zeinab Shahbazi∗ — Kristianstad University, Sweden  
+1. Sara Behnamian — Globe Institute, University of Copenhagen  
+2. Zeinab Shahbazi — Kristianstad University, Sweden  
 3. Zahra Shahbazi — University of Padova, Italy  
-4. Sadiqa Jafari∗ — Gachon University, South Korea  
-
-∗ Equal contribution.
+4. Sadiqa Jafari — Gachon University, South Korea  
 
 ### License
 
