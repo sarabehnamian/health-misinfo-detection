@@ -19,3 +19,10 @@ venv/
 # OS
 .DS_Store
 Thumbs.db
+
+# Pipeline outputs — third-party / legal sensitivity; keep local only
+data/00_raw/
+data/01_claims/
+data/02_evidence/
+data/03_classified/
+data/04_evaluation/results/

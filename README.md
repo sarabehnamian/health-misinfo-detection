@@ -2,7 +2,7 @@
 
 ## LLM-grounded detection of health product misinformation on social media
 
-This repository contains **seven Python modules** (no other pipeline code). The README below is aligned with those files as of the last full pass over the codebase.
+This repository contains the **seven Python modules** below and a short note under `data/README.md`. **Raw and processed social posts (Reddit, YouTube, etc.) are not distributed here** — they may be subject to platform terms, copyright, or privacy rules; run the collectors locally if your use is permitted.
 
 ### Repository scripts (complete list)
 
@@ -151,7 +151,9 @@ python 04b_publication_figures.py
 
 ---
 
-### Data layout
+### Data layout (created locally; not committed)
+
+The `data/` tree is listed in `.gitignore`. After you run the stages, you should see something like:
 
 ```
 data/
@@ -174,25 +176,7 @@ data/
         └── examples_<VERACITY>.txt
 ```
 
-PNG files appear after you run `04b_publication_figures.py`.
-
----
-
-### Results snapshot (`data/04_evaluation/results/descriptive_stats.json`)
-
-Counts refer to the **classified** JSONL currently in the repo (**8,250** claims).
-
-| | |
-|--:|--:|
-| Total claims | 8,250 |
-| Reddit / YouTube | 2,604 / 5,646 |
-| Mean / median LLM confidence | ~0.866 / 0.85 |
-
-**LLM + RAG (`veracity_distribution`):** SUPPORTED 576 (7.0%), EXAGGERATED 1,851 (22.4%), UNSUPPORTED 4,945 (59.9%), CONTRADICTED 165 (2.0%), DANGEROUS 713 (8.6%).
-
-**Risk tier (`risk_distribution`):** LOW 2,431; MODERATE 4,706; HIGH 539; CRITICAL 574.
-
-**Keyword baseline (`baseline_veracity_distribution`):** EXAGGERATED 131; UNSUPPORTED 7,986; DANGEROUS 133 (no SUPPORTED/CONTRADICTED by design).
+PNG files appear after you run `04b_publication_figures.py`. Aggregated metrics are written to `descriptive_stats.json` in the same results folder (no third-party post text in that file).
 
 ---
 
